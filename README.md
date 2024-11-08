@@ -4,7 +4,7 @@ This repository contains the codes used in the study “The Role of Co-seismic D
 
 ## Dependancies
 This code is written in MATLAB. To use this code, you need:
-+ [3D-Simulation-Visualization MATLAB package] (https://github.com/TerdikGyorgy/3D-Simulation-Visualization)
++ [3D-Simulation-Visualization MATLAB package](https://github.com/TerdikGyorgy/3D-Simulation-Visualization)
 
 
 
