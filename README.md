@@ -8,7 +8,7 @@ This code is written in MATLAB. To use this code, you need:
 
 ## Data
 The relocated earthquakes catalogs used in this study can be accessed through the following sources:
-- Thiva sequence: (https://www.mdpi.com/2076-3417/12/5/2630)
+- Thiva sequence: (https://doi.org/10.3390/app12052630)
 - Damasi sequence: (https://doi.org/10.1016/j.jog.2022.101898)
 - Florina sequence: (https://doi.org/10.1016/j.tecto.2016.11.027)
 
